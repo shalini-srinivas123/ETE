@@ -70,7 +70,11 @@ public class Admin {
 		
 		driver.findElement(By.xpath("//div[contains(text(), 'Master Data')]")).click();
 				
-		//driver.quit();
+		driver.quit();
+		
+		driver.quit();
+		
+		driver.quit();
 		
 		
 		
